@@ -8,20 +8,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
+3. Use my brain more
+4. Get better at LIFE
+5. Learn about Bundlers
 6. Be kind
 
-# November 00, 2014
+# March 8, 2017
 
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
+- [x] Play with Mars
+- [ ] Watch 2 videos from my content list about webpack/js
+- [ ] Come up with blog ideas
+- [ ] Create [Spike.cf](https://www.spike.cf/)
 - [ ] Create slides for my talk about music
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)

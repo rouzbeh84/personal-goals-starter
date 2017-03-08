@@ -22,21 +22,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Watch 2 videos from my content list about webpack/js
 - [ ] Come up with blog ideas
 - [ ] Create [Spike.cf](https://www.spike.cf/)
-- [ ] Create slides for my talk about music
+- [ ] Create slides for my talk about https://www.spike.cf/
 - [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [ ] Read [this blog post](http://una.github.io/personal-goals-guide)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
 - [ ] Come up with a new side project
 
 ### Backlog: Side Projects :)
 - [ ] Work on [my cool project I forgot about](http://google.com)
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
+1. Create blog w/spike
 2. Build a robot that takes over the world

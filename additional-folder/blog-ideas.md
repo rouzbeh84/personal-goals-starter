@@ -4,10 +4,8 @@ Here's an example:
 
 If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
 
-1. Dog jumping over hoop into pool
+1. Dev Setup (browser and editor)
 2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
 
 If my goal was to film more videocasts, this could be used for topics
 
